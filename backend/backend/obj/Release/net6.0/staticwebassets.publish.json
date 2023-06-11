@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "T7TBmP9EWSjvmfXGTv1UHL6MhbLJEJvPTwFp9ZeQNSw=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "C:\\Users\\Ajsa\\Desktop\\fax\\informacioni sistemi\\Projekat-Sup\\backend\\backend\\backend\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
